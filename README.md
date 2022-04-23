@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @selectkenni
+- 👋 Hi, I’m @kenni
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning sql
 - 💞️ I’m looking to collaborate on data analytics projects
